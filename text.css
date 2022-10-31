@@ -54,7 +54,7 @@ input{
 input:hover{
     background-color: rgba(0, 0, 0, 0.616);
 }
-@media screen and (max-width:500px){
+@media screen and (max-width:900px){
     body{
         background-image: url(to.jpg);
         color: rgb(255, 247, 247);
