@@ -59,6 +59,7 @@ input:hover{
         background-image: url(to.jpg);
         background-repeat: no-repeat;
         background-size: cover;
+        background-size: 100%;
         color: rgb(255, 247, 247);
         position: relative;
     }
